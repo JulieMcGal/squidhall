@@ -92,3 +92,12 @@ html, body {
     from {top:-300px; opacity:0}
     to {top:0; opacity:1}
 }
+.mpopup-content{border:1px solid #77e7fd;font-family: 'Montserrat', sans-serif;}	
+.mpopup-head{ background-color:#051726;}
+h2#mpopup-title {background-color:#04162c;
+		      	border:1px solid #77e7fd;
+		      	margin:3px;
+		      	padding:10px;}
+.mpopup-foot{background-color:#051726;}
+.mpopup-main {border-left:12px solid #051726; border-right:12px solid #051726;}
+.mpopup-close {color:#77e7fd;}
